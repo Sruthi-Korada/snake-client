@@ -23,7 +23,7 @@ const handleUserInput = function(key) {
   } else if (key === "d") {
     connection.write("Move: right");
   } else if (key === "l") {
-    connection.write("Say: I WILL DEFEAT ISIS");
+    connection.write("Say: I WILL DEFEAT YOU");
   }
 }
 
